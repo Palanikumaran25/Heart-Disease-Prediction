@@ -10,13 +10,13 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 
-st.set_page_config(page_title="Health Assistant",
+st.set_page_config(page_title="Heart Disease Predict",
                    layout="wide",
                    page_icon="🧑‍⚕️") 
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
-Heart_model = pickle.load(open('C:/Python/Multiple Disease Prediction/heart_model.sav', 'rb'))
+Heart_model = pd.read_csv(''C:\Python\Heart Disease Prediction\heart (1).csv'')
 
 
 models = { 
