@@ -1,6 +1,6 @@
 # streamlit_app.py
 import os
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF
 import streamlit as st
 import tempfile
 from sentence_transformers import SentenceTransformer
