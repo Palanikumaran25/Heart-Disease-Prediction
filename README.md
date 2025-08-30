@@ -1,6 +1,6 @@
 # ❤️ Heart-Disease-Prediction:
-This web application uses a machine learning classifier trained on heart disease data to predict the likelihood of heart disease based on user input. Built with Python, Scikit-learn, and Streamlit, the app provides a simple interface for real-time prediction and evaluation. 
-This project is a machine learning-powered web application that predicts the likelihood of heart disease based on user-provided medical information.
+1. This web application uses a machine learning classifier trained on heart disease data to predict the likelihood of heart disease based on user input. Built with Python, Scikit-learn, and Streamlit, the app provides a simple interface for real-time prediction and evaluation. 
+2. This project is a machine learning-powered web application that predicts the likelihood of heart disease based on user-provided medical information.
 
 # 🚀 Features:
 1. Interactive Web Interface built with Streamlit.
